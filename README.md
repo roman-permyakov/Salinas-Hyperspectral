@@ -1,6 +1,6 @@
 ###### Hyperspectral Imagery. Salinas
 
-# **Land Cover Classification of Hyperspectral Satellite Imagery** <img src="https://images.squarespace-cdn.com/content/v1/52729d11e4b0b9200a7023ea/1524338737642-7486A223WJUMFDSX6PWQ/Artboard+1+copy+42.png" height="50"><br>Using Convolutional Neural Networks
+# **Land Cover Classification of Hyperspectral Imagery** <img src="https://images.squarespace-cdn.com/content/v1/52729d11e4b0b9200a7023ea/1524338737642-7486A223WJUMFDSX6PWQ/Artboard+1+copy+42.png" height="50"><br>Using Convolutional Neural Networks
 
 ##  <p align="justify"> [Classify Lands in HSI over Salinas Valley, California](https://yandex.ru/maps/103361/salinas/?ll=-121.604262%2C36.677279&z=10.88)</p> 
  
